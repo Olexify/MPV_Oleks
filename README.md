@@ -16,8 +16,11 @@ Run mpv.exe (also set it as default app for videos)
 
 <img width="1440" height="568" alt="image" src="https://github.com/user-attachments/assets/e0dbecae-1f59-4032-9a66-33231feeb16a" />
 
-
-
+My version of config:
+1)a little bit stripped, removed ziggy online subtitles(idk why it is flagged as malware so archived it) util for the added security as I think, this MPV is just local (path: portable_config\scripts\uosc\bin)
+2)added custom deletion of video on delete button and shift+delete to permanently delete, has confirmation message.
+3)added some sorting functionality, cycling, videos do cycle infinitely but photos don't cycle on their own. 
+4)many more interesting work in progress, for later. currently it's pretty good
 
 ## Scripts and Shaders Credits
 
