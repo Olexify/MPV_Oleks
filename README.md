@@ -24,7 +24,7 @@ Run `mpv.exe` (optionally set it as default video app)
 
 - A bit stripped down: removed Ziggy online subtitles (flagged as malware, archived for safety). Path: `portable_config/scripts/uosc/bin`
 - Custom delete behavior:
-  - Delete → move to trash
+  - Delete → move to trash (with confirmation)
   - Shift + Delete → permanent delete (with confirmation)
 - Sorting + navigation improvements:
   - Infinite video cycling
