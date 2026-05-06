@@ -21,6 +21,12 @@ My version of config:
 2)added custom deletion of video on delete button and shift+delete to permanently delete, has confirmation message.
 3)added some sorting functionality, cycling, videos do cycle infinitely but photos don't cycle on their own. 
 4)many more interesting work in progress, for later. currently it's pretty good
+Tiny comfortable tweaks:
+1)added pause on mouse click
+2)arrows left/right navidate 4 seconds back/fwd; arrows up and down navigate to next videos/photos
+3)must be something else I missed
+
+
 
 ## Scripts and Shaders Credits
 
