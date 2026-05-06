@@ -1,4 +1,4 @@
-# mpv configuration - this is my modification, but originally config is done by [Tuilakhanh](https://github.com/tuilakhanh/mpv-conf), I'll aks him if he opposes I'll delete my work or proper;y for it later. didn't have time and did not plan to publish it xD
+# mpv configuration - this is my modification, but originally config is done by [Tuilakhanh](https://github.com/tuilakhanh/mpv-conf) *I'll aks him and if he opposes I'll delete my work or proper;y fork it later, I'm new to git and didn't plan to publish it xD*
 **This mpv configuration is done on mpv-git. Make sure you are using the latest version of mpv-git if you want to use this configuration.**
 ![thumb](https://github.com/tuilakhanh/mpv-conf/assets/17153084/908b4514-d85f-4c99-b9c1-28245795ea94)
 
