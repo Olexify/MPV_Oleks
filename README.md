@@ -1,30 +1,43 @@
 # mpv configuration - this is my modification, but originally config is done by [Tuilakhanh](https://github.com/tuilakhanh/mpv-conf) *I'll aks him and if he opposes I'll delete my work or proper;y fork it later, I'm new to git and didn't plan to publish it xD*
 **This mpv configuration is done on mpv-git. Make sure you are using the latest version of mpv-git if you want to use this configuration.**
 ![thumb](https://github.com/tuilakhanh/mpv-conf/assets/17153084/908b4514-d85f-4c99-b9c1-28245795ea94)
+## 📦 Installation
 
-📦 Installation
-Download mpv from https://mpv.io
-Extract it anywhere
-Copy the portable_config folder into the mpv folder
+Download mpv from https://mpv.io  
+Extract it anywhere  
+Copy the `portable_config` folder into the mpv folder  
 
-Final structure:
+### Final structure:
+```
 mpv/
 ├── mpv.exe
 └── portable_config/
+```
 
-Run mpv.exe (also set it as default app for videos)
+Run `mpv.exe` (optionally set it as default video app)
 
-<img width="1440" height="568" alt="image" src="https://github.com/user-attachments/assets/e0dbecae-1f59-4032-9a66-33231feeb16a" />
+![preview](https://github.com/user-attachments/assets/e0dbecae-1f59-4032-9a66-33231feeb16a)
 
-My version of config:
-1)a little bit stripped, removed ziggy online subtitles(idk why it is flagged as malware so archived it) util for the added security as I think, this MPV is just local (path: portable_config\scripts\uosc\bin)
-2)added custom deletion of video on delete button and shift+delete to permanently delete, has confirmation message.
-3)added some sorting functionality, cycling, videos do cycle infinitely but photos don't cycle on their own. 
-4)many more interesting work in progress, for later. currently it's pretty good
-Tiny comfortable tweaks:
-1)added pause on mouse click
-2)arrows left/right navidate 4 seconds back/fwd; arrows up and down navigate to next videos/photos
-3)must be something else I missed
+---
+
+## My version of config
+
+- A bit stripped down: removed Ziggy online subtitles (flagged as malware, archived for safety). Path: `portable_config/scripts/uosc/bin`
+- Custom delete behavior:
+  - Delete → move to trash
+  - Shift + Delete → permanent delete (with confirmation)
+- Sorting + navigation improvements:
+  - Infinite video cycling
+  - Images do not auto-cycle
+- Work in progress improvements
+
+---
+
+## Tiny comfortable tweaks
+
+- Pause on mouse click  
+- Left/Right arrows: seek ±4 seconds  
+- Up/Down arrows: next video/photo  
 
 
 
