@@ -1,0 +1,8 @@
+
+*.log
+*.cache
+cache/
+watch_later/
+watch_later/
+gpu-shader-cache/
+script-opts/*.log
