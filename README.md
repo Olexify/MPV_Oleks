@@ -28,6 +28,7 @@ Run `mpv.exe` (optionally set it as default video app)
   - Shift + Delete → permanent delete (with confirmation)
 - Sorting + navigation improvements:
   - Infinite video cycling
+  - Lightning speed navigation
   - Images do not auto-cycle
 - Work in progress improvements
 
