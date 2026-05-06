@@ -1,6 +1,23 @@
-# mpv configuration
+# mpv configuration - this is my modification, but originally config is done by Tuilakhanh, I'll aks him if he opposes I'll delete my work or proper;y for it later. didn't have time and did not plan to publish it xD
 **This mpv configuration is done on mpv-git. Make sure you are using the latest version of mpv-git if you want to use this configuration.**
 ![thumb](https://github.com/tuilakhanh/mpv-conf/assets/17153084/908b4514-d85f-4c99-b9c1-28245795ea94)
+
+📦 Installation
+Download mpv from https://mpv.io
+Extract it anywhere
+Copy the portable_config folder into the mpv folder
+
+Final structure:
+mpv/
+├── mpv.exe
+└── portable_config/
+
+Run mpv.exe (also set it as default app for videos)
+
+<img width="1440" height="568" alt="image" src="https://github.com/user-attachments/assets/e0dbecae-1f59-4032-9a66-33231feeb16a" />
+
+
+
 
 ## Scripts and Shaders Credits
 
